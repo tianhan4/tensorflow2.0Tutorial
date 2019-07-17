@@ -12,4 +12,5 @@ pip install pillow
 
 # Pls run this before distributing docker image to preload the data:
 echo -e "from tensorflow import keras\nkeras.datasets.mnist.load_data()" | python
+echo -e "from tensorflow import keras\nkeras.applications.VGG16(input_shape=(224,224,3), weights='imagenet',include_top=False)" | python
 ```
