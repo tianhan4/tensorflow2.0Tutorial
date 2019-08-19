@@ -25,13 +25,13 @@ The reading order should be as follows.
 
 [Eager.ipynb](./Eager.ipynb) introduces basic operation of tensors and the difference between Eager mode and Graph mode in Tensorflow.
 
-Data.ipynb is used for generating dataset for Tensorflow to use. You can use integrated pre-defined dataset or your own data.
+[Data.ipynb](./Data.ipynb) is used for generating dataset for Tensorflow to use. You can use integrated pre-defined dataset or your own data.
 
-Model.ipynb introduces three ways in Tensorflow to construct the same model. 
+[Model.ipynb](./Model.ipynb) introduces three ways in Tensorflow to construct the same model. 
 
-RawTraining.ipynb gives an example of training a model from scratch using raw Tensorflow functions.
+[RawTraining.ipynb](./RawTraining.ipynb) gives an example of training a model from scratch using raw Tensorflow functions.
 
-KerasTraining.ipynb introduces how to perform training using Keras, which is more convenient.
+[KerasTraining.ipynb](./KerasTraining.ipynb) introduces how to perform training using Keras, which is more convenient.
 
-Transfer_learning.ipynb introduces how to use pre-trained model on your own data to fine-tune a specific model.
+[Transfer_learning.ipynb](./Transfer_learning.ipynb) introduces how to use pre-trained model on your own data to fine-tune a specific model.
 
