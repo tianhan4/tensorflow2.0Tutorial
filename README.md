@@ -19,7 +19,7 @@ echo -e "from tensorflow import keras\nkeras.applications.VGG16(input_shape=(224
 ## Usage
 This is a brief introduction of tailoring Tensorflow 2.0Alpha for deep learning tasks. Some new features of Tensorflow 2.0Alpha are demonstrated here such as Eagle mode and integrated Keras. 
 
-Some boxes are left blanked for you to fill as exercise for workshop. The complete solution is in 'solutins' folder.
+Some boxes in Eager.ipynb, KerasTraining.ipynb and RawTraining.ipynb are left blanked for you to fill as exercise for workshop. The complete solution is in 'solutins' folder.
 
 The reading order should be as follows.
 
