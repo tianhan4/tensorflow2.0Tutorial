@@ -23,7 +23,7 @@ Some boxes in Eager.ipynb, KerasTraining.ipynb and RawTraining.ipynb are left bl
 
 The reading order should be as follows.
 
-[Eager.ipynb](https://github.com/tianhan4/tensorflow2.0Tutorial/Eager.ipynb) introduces basic operation of tensors and the difference between Eager mode and Graph mode in Tensorflow.
+[Eager.ipynb](./Eager.ipynb) introduces basic operation of tensors and the difference between Eager mode and Graph mode in Tensorflow.
 
 Data.ipynb is used for generating dataset for Tensorflow to use. You can use integrated pre-defined dataset or your own data.
 
